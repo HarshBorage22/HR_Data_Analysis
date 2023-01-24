@@ -44,5 +44,29 @@
 - [Area Chart](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-basic-area-chart) Visual showing the Different Presence percentages of employees by months.
 - [Trendline](https://www.projectpro.io/recipes/use-trend-line-analytics-pane-power-bi) Visual showing trends as the Ups and Downs in Presence percentage.
 
+https://user-images.githubusercontent.com/121333630/214359922-e1d87a5a-030c-4b89-a63b-35ffda96bd33.mp4
+
+<hr>
+
+## Preview or Access the Responsive DashBoard from below link-    
+- ### [Access The live Responsive DashBoard Here](https://app.powerbi.com/view?r=eyJrIjoiMzcyZWNmNTAtYTIwNC00OTBjLWJmNWEtYmZjZjA2M2ZlYzc1IiwidCI6ImY3MDA5ZDIzLTRhOTAtNDJmMS05MTBkLTM3Y2JhYmI3N2UxZCIsImMiOjF9)
+- ### [DashBoard Presented in PDF format](https://github.com/HarshBorage22/HR_Data_Analysis/blob/main/HRAnalysis.pdf)
+
+<hr>
+
+## 🛠 Skills
+Data Analysis And Visualization, Power BI.
+<hr>
+
+## Author
+
+- [@HarshBorage22](https://www.github.com/HarshBorage22)
+
+<hr>
+
+## Feedback
+
+If you have any feedback, please reach out to me at harshborage.22@gmail.com
+
 <hr>
 
