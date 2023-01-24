@@ -3,7 +3,7 @@
 ### In this project, We're going to Analyse the HR Presence Dataset. 
 <hr>
 
-<img src="https://github.com/HarshBorage22/E-Commerce_Sales_Analysis/blob/main/E-Com.png" alt="DB">
+<img src="https://github.com/HarshBorage22/HR_Data_Analysis/blob/main/Dashboard.png" alt="DB">
 
 <hr>
 
